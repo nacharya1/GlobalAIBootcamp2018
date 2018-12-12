@@ -14,3 +14,4 @@ Workshops / Presentation / Demo's to use on the Global AI Bootcamp 2018 (www.glo
 
 ### Hands-on Labs
 * [Robot challenge Lab](https://aischool.microsoft.com/en-us/intelligent-edge/learning-paths/robot-challenge-lab)
+* [Learn How to Build a Machine Learning Model Using Automated Machine Learning](/automatedml.md)
